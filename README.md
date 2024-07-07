@@ -1,1 +1,1 @@
-# project2024
+# EmotionDetector
